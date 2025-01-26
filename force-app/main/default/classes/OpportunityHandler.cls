@@ -4,7 +4,7 @@ public static Decimal calculateOpportunityAmount(Decimal amount) {
 //ghj
 //12345
 //rrrrr
-//ffffff
+//ffffffgg
 return amount * 12;
 }
 }
