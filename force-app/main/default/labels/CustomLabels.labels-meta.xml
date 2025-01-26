@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>First_Dev</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>First_Dev</shortDescription>
+        <value>ddd</value>
+    </labels>
+    <labels>
+        <fullName>First_Label</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>First_Label</shortDescription>
+        <value>1234</value>
+    </labels>
+    <labels>
+        <fullName>Second_label</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Second label</shortDescription>
+        <value>eeee</value>
+    </labels>
+    <labels>
+        <fullName>Training</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Training</shortDescription>
+        <value>training</value>
+    </labels>
+</CustomLabels>
